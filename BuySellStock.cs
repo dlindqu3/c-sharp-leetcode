@@ -1,6 +1,6 @@
 // leetcode 121 
 
-public class BuySellStock {
+public class Solution {
     public int MaxProfit(int[] prices) {
         
         int p1 = 0; 
